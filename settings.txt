@@ -1,0 +1,3 @@
+MAILS_PER_MINUTE=30
+DELAY_BETWEEN_MAILS=0.0
+SUBJECT=The subject of the emails goes here.

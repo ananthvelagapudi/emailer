@@ -1,0 +1,4 @@
+smtp.office365.com 587 contatoandre@andremottaconsultorio.com.br 5SS6K8knsfuunRWx
+smtp.office365.com 587 adrianomotta@jornaldomaquinista.com.br 5SS6K8knsfuunRWx
+smtp.office365.com 587 julianaschwatzmann@escritoriosantamaria.com.br 5SS6K8knsfuunRWx
+smtp.office365.com 587 marioschwartzmann@padariadosandro.com.br 5SS6K8knsfuunRWx
